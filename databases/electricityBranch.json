@@ -1,0 +1,51 @@
+[ 
+    {
+        "branchid":"b0001",
+        "appliances":[ 
+            {
+                "device":"air conditioner",
+                "electricity": "301",
+                "status": "25 C",
+                "isOnOff": false
+            },
+            {
+                "device":"refrigerator",
+                "electricity": "188",
+                "status": "16 C",
+                "isOnOff": false
+            },  
+            {
+                "device":"sanwichtoaster",
+                "electricity": "15",
+                "status": "off",
+                "isOnOff": true
+            }
+        ],
+        "electricity_payment_estimation":"7342"
+    },
+    
+    {
+        "branchid":"b0002",
+        "appliances":[
+            {
+                "device":"air conditioner",
+                "electricity": "501",
+                "status": "19 C",
+                "isOnOff": false
+            },
+            {
+                "device":"refrigerator",
+                "electricity": "208",
+                "status": "8 C",
+                "isOnOff": false
+            },  
+            {
+                "device":"sanwichtoaster",
+                "electricity": "40",
+                "status": "on",
+                "isOnOff": true
+            }
+        ],
+        "electricity_payment_estimation":"6744"
+    }
+]

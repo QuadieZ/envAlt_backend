@@ -1,0 +1,17 @@
+[
+        {
+            "username": "test01",
+            "password": "1234",
+            "empid":"emp1",
+            "empname":"name1",
+            "branchid":"b0001"
+        },
+        {
+            "username": "test02",
+            "password": "1123",
+            "empid":"emp2",
+            "empname":"name2",
+            "branchid":"b0002"
+        }
+]
+

@@ -1,0 +1,25 @@
+[
+    {
+        "branchid": "b0001",
+        "recommendation": [
+            {
+                "date":"31/03/2021",
+                "time":"18:00",
+                "message": [
+                    "19:00 turn off sanwichtoaster",
+                    "20:00 Change air temperature to 26 C" 
+                ]
+            }
+        ]
+    },
+    {
+        "branchid":"b0002",
+        "recommendation": [
+            {
+                "date":"31/03/2021",
+                "time":"19:00",
+                "message": ["20.00 turn off sanwichtoaster"]
+            }
+        ]
+    }
+]
